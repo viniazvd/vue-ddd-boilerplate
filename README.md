@@ -1,3 +1,6 @@
+# client-side
+
+> A Vue.js project
 
 ## Build Setup
 
